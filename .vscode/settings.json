@@ -1,0 +1,8 @@
+{
+    "search.exclude": {
+        "**/target": true
+    },
+    "lldb.verboseLogging": true,
+    "editor.suggest.showKeywords": false,
+    "editor.suggest.showSnippets": false
+}
